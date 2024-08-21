@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @phenomT
-- 🌱 I’m currently learning Reactjs...
+- 🌱 A fullstack engineer with vast knowledge building RESTFUL APIs using laravel and Node
+- 🌱 I can also create nice UI using angular cli
 - 💞️ I’m looking to collaborate on Web projects...
 
 <!---
